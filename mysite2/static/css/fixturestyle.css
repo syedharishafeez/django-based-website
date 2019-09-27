@@ -1,0 +1,23 @@
+.whole {
+    height: 1000px;
+    width: 1000px;
+	    
+}
+
+.divleft {
+	position: relative;
+	height: 1000px;
+	width: 500px;
+	top: 0px;
+	left: 0px;
+    
+}
+
+.divright {
+	position:relative;
+    height: 1000px;
+    width: 500px;
+	margin-left:501px;
+	margin-top:-1020px;
+    
+}
